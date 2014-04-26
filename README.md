@@ -1,7 +1,7 @@
 Canaima Colibri Live.
 --------------------------
 
-Live basado en GNU/Linux Debian para la distribución GNU/Linux Canaima.
+Live basado en Debian GNU/Linux adaptado para la distribución Canaima GNU/Linux.
 
 La distribución está enfocada en el escritorio LXDE.
 
